@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "fossilrecord:item/spinosaurus_spawn_egg"
+  }
+}

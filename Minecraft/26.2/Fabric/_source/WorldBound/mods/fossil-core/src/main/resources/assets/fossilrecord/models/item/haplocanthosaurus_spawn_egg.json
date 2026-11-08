@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "fossilrecord:item/haplocanthosaurus_spawn_egg"
+  }
+}

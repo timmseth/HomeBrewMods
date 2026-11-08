@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "fossilrecord:item/leaellynasaura_spawn_egg"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "entity.tatv.tatv": "TATV",
+  "item.tatv.tatv": "TATV (Truly All-Terrain Vehicle)",
+  "key.category.tatv.main": "TATV",
+  "key.tatv.mode": "Cycle mode (Drive › Hover › VTOL › Glide)",
+  "key.tatv.anchor": "Anchor in place",
+  "key.tatv.down": "Descend / lower hover",
+  "key.tatv.faster": "Speed level up",
+  "key.tatv.slower": "Speed level down",
+  "key.tatv.submerge": "Dive / surface (submarine)",
+  "key.tatv.exit": "Get out",
+  "key.tatv.tilt": "Toggle first-person tilt"
+}

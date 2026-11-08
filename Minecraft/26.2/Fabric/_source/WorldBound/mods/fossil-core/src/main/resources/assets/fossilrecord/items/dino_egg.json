@@ -1,0 +1,1637 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      {
+        "when": "tyrannosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/tyrannosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "triceratops",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/triceratops_spawn_egg"
+        }
+      },
+      {
+        "when": "ankylosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/ankylosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "pachycephalosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/pachycephalosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "edmontosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/edmontosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "parasaurolophus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/parasaurolophus_spawn_egg"
+        }
+      },
+      {
+        "when": "styracosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/styracosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "allosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/allosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "stegosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/stegosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "brachiosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/brachiosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "diplodocus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/diplodocus_spawn_egg"
+        }
+      },
+      {
+        "when": "velociraptor",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/velociraptor_spawn_egg"
+        }
+      },
+      {
+        "when": "protoceratops",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/protoceratops_spawn_egg"
+        }
+      },
+      {
+        "when": "oviraptor",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/oviraptor_spawn_egg"
+        }
+      },
+      {
+        "when": "gallimimus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/gallimimus_spawn_egg"
+        }
+      },
+      {
+        "when": "therizinosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/therizinosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "giganotosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/giganotosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "argentinosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/argentinosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "carnotaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/carnotaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "spinosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/spinosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "iguanodon",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/iguanodon_spawn_egg"
+        }
+      },
+      {
+        "when": "compsognathus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/compsognathus_spawn_egg"
+        }
+      },
+      {
+        "when": "dilophosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/dilophosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "albertosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/albertosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "gorgosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/gorgosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "daspletosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/daspletosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "tarbosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/tarbosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "yutyrannus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/yutyrannus_spawn_egg"
+        }
+      },
+      {
+        "when": "carcharodontosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/carcharodontosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "acrocanthosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/acrocanthosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "ceratosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/ceratosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "majungasaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/majungasaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "baryonyx",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/baryonyx_spawn_egg"
+        }
+      },
+      {
+        "when": "suchomimus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/suchomimus_spawn_egg"
+        }
+      },
+      {
+        "when": "utahraptor",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/utahraptor_spawn_egg"
+        }
+      },
+      {
+        "when": "deinonychus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/deinonychus_spawn_egg"
+        }
+      },
+      {
+        "when": "microraptor",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/microraptor_spawn_egg"
+        }
+      },
+      {
+        "when": "coelophysis",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/coelophysis_spawn_egg"
+        }
+      },
+      {
+        "when": "struthiomimus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/struthiomimus_spawn_egg"
+        }
+      },
+      {
+        "when": "citipati",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/citipati_spawn_egg"
+        }
+      },
+      {
+        "when": "apatosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/apatosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "brontosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/brontosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "camarasaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/camarasaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "giraffatitan",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/giraffatitan_spawn_egg"
+        }
+      },
+      {
+        "when": "mamenchisaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/mamenchisaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "amargasaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/amargasaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "patagotitan",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/patagotitan_spawn_egg"
+        }
+      },
+      {
+        "when": "plateosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/plateosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "corythosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/corythosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "lambeosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/lambeosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "maiasaura",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/maiasaura_spawn_egg"
+        }
+      },
+      {
+        "when": "ouranosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/ouranosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "hypsilophodon",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/hypsilophodon_spawn_egg"
+        }
+      },
+      {
+        "when": "tenontosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/tenontosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "centrosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/centrosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "chasmosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/chasmosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "pachyrhinosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/pachyrhinosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "kosmoceratops",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/kosmoceratops_spawn_egg"
+        }
+      },
+      {
+        "when": "psittacosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/psittacosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "kentrosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/kentrosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "euoplocephalus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/euoplocephalus_spawn_egg"
+        }
+      },
+      {
+        "when": "borealopelta",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/borealopelta_spawn_egg"
+        }
+      },
+      {
+        "when": "stegoceras",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/stegoceras_spawn_egg"
+        }
+      },
+      {
+        "when": "megalosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/megalosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "torvosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/torvosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "mapusaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/mapusaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "concavenator",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/concavenator_spawn_egg"
+        }
+      },
+      {
+        "when": "australovenator",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/australovenator_spawn_egg"
+        }
+      },
+      {
+        "when": "herrerasaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/herrerasaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "stenonychosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/stenonychosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "sinosauropteryx",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/sinosauropteryx_spawn_egg"
+        }
+      },
+      {
+        "when": "shunosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/shunosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "saltasaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/saltasaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "nigersaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/nigersaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "alamosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/alamosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "europasaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/europasaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "massospondylus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/massospondylus_spawn_egg"
+        }
+      },
+      {
+        "when": "saurolophus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/saurolophus_spawn_egg"
+        }
+      },
+      {
+        "when": "shantungosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/shantungosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "brachylophosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/brachylophosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "olorotitan",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/olorotitan_spawn_egg"
+        }
+      },
+      {
+        "when": "gryposaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/gryposaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "muttaburrasaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/muttaburrasaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "mantellisaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/mantellisaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "thescelosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/thescelosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "oryctodromeus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/oryctodromeus_spawn_egg"
+        }
+      },
+      {
+        "when": "leaellynasaura",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/leaellynasaura_spawn_egg"
+        }
+      },
+      {
+        "when": "heterodontosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/heterodontosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "einiosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/einiosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "torosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/torosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "nasutoceratops",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/nasutoceratops_spawn_egg"
+        }
+      },
+      {
+        "when": "sinoceratops",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/sinoceratops_spawn_egg"
+        }
+      },
+      {
+        "when": "miragaia",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/miragaia_spawn_egg"
+        }
+      },
+      {
+        "when": "tuojiangosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/tuojiangosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "huayangosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/huayangosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "dacentrurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/dacentrurus_spawn_egg"
+        }
+      },
+      {
+        "when": "edmontonia",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/edmontonia_spawn_egg"
+        }
+      },
+      {
+        "when": "sauropelta",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/sauropelta_spawn_egg"
+        }
+      },
+      {
+        "when": "minmi",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/minmi_spawn_egg"
+        }
+      },
+      {
+        "when": "gastonia",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/gastonia_spawn_egg"
+        }
+      },
+      {
+        "when": "scelidosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/scelidosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "pinacosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/pinacosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "zuul",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/zuul_spawn_egg"
+        }
+      },
+      {
+        "when": "prenocephale",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/prenocephale_spawn_egg"
+        }
+      },
+      {
+        "when": "rajasaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/rajasaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "rugops",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/rugops_spawn_egg"
+        }
+      },
+      {
+        "when": "skorpiovenator",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/skorpiovenator_spawn_egg"
+        }
+      },
+      {
+        "when": "masiakasaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/masiakasaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "afrovenator",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/afrovenator_spawn_egg"
+        }
+      },
+      {
+        "when": "irritator",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/irritator_spawn_egg"
+        }
+      },
+      {
+        "when": "ichthyovenator",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/ichthyovenator_spawn_egg"
+        }
+      },
+      {
+        "when": "timurlengia",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/timurlengia_spawn_egg"
+        }
+      },
+      {
+        "when": "dryptosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/dryptosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "appalachiosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/appalachiosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "fukuiraptor",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/fukuiraptor_spawn_egg"
+        }
+      },
+      {
+        "when": "guanlong",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/guanlong_spawn_egg"
+        }
+      },
+      {
+        "when": "qianzhousaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/qianzhousaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "alioramus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/alioramus_spawn_egg"
+        }
+      },
+      {
+        "when": "deinocheirus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/deinocheirus_spawn_egg"
+        }
+      },
+      {
+        "when": "gigantoraptor",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/gigantoraptor_spawn_egg"
+        }
+      },
+      {
+        "when": "caudipteryx",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/caudipteryx_spawn_egg"
+        }
+      },
+      {
+        "when": "anchiornis",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/anchiornis_spawn_egg"
+        }
+      },
+      {
+        "when": "ornithomimus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/ornithomimus_spawn_egg"
+        }
+      },
+      {
+        "when": "dromaeosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/dromaeosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "balaur",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/balaur_spawn_egg"
+        }
+      },
+      {
+        "when": "eoraptor",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/eoraptor_spawn_egg"
+        }
+      },
+      {
+        "when": "staurikosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/staurikosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "saturnalia",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/saturnalia_spawn_egg"
+        }
+      },
+      {
+        "when": "anchisaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/anchisaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "mussaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/mussaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "jobaria",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/jobaria_spawn_egg"
+        }
+      },
+      {
+        "when": "turiasaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/turiasaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "barosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/barosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "dreadnoughtus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/dreadnoughtus_spawn_egg"
+        }
+      },
+      {
+        "when": "isisaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/isisaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "rapetosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/rapetosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "paralititan",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/paralititan_spawn_egg"
+        }
+      },
+      {
+        "when": "magyarosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/magyarosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "ampelosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/ampelosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "phuwiangosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/phuwiangosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "malawisaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/malawisaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "diamantinasaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/diamantinasaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "kamuysaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/kamuysaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "fukuisaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/fukuisaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "hadrosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/hadrosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "telmatosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/telmatosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "tethyshadros",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/tethyshadros_spawn_egg"
+        }
+      },
+      {
+        "when": "tsintaosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/tsintaosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "hypacrosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/hypacrosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "zalmoxes",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/zalmoxes_spawn_egg"
+        }
+      },
+      {
+        "when": "rhabdodon",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/rhabdodon_spawn_egg"
+        }
+      },
+      {
+        "when": "kulindadromeus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/kulindadromeus_spawn_egg"
+        }
+      },
+      {
+        "when": "hungarosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/hungarosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "gigantspinosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/gigantspinosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "pentaceratops",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/pentaceratops_spawn_egg"
+        }
+      },
+      {
+        "when": "regaliceratops",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/regaliceratops_spawn_egg"
+        }
+      },
+      {
+        "when": "anzu",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/anzu_spawn_egg"
+        }
+      },
+      {
+        "when": "limusaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/limusaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "sinosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/sinosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "yangchuanosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/yangchuanosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "sinraptor",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/sinraptor_spawn_egg"
+        }
+      },
+      {
+        "when": "monolophosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/monolophosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "megaraptor",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/megaraptor_spawn_egg"
+        }
+      },
+      {
+        "when": "tyrannotitan",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/tyrannotitan_spawn_egg"
+        }
+      },
+      {
+        "when": "aucasaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/aucasaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "buitreraptor",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/buitreraptor_spawn_egg"
+        }
+      },
+      {
+        "when": "austroraptor",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/austroraptor_spawn_egg"
+        }
+      },
+      {
+        "when": "sinornithosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/sinornithosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "saurornitholestes",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/saurornitholestes_spawn_egg"
+        }
+      },
+      {
+        "when": "mononykus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/mononykus_spawn_egg"
+        }
+      },
+      {
+        "when": "halszkaraptor",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/halszkaraptor_spawn_egg"
+        }
+      },
+      {
+        "when": "beipiaosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/beipiaosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "nothronychus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/nothronychus_spawn_egg"
+        }
+      },
+      {
+        "when": "pelecanimimus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/pelecanimimus_spawn_egg"
+        }
+      },
+      {
+        "when": "lythronax",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/lythronax_spawn_egg"
+        }
+      },
+      {
+        "when": "teratophoneus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/teratophoneus_spawn_egg"
+        }
+      },
+      {
+        "when": "nanuqsaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/nanuqsaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "neovenator",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/neovenator_spawn_egg"
+        }
+      },
+      {
+        "when": "dicraeosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/dicraeosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "brachytrachelopan",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/brachytrachelopan_spawn_egg"
+        }
+      },
+      {
+        "when": "supersaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/supersaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "omeisaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/omeisaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "futalognkosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/futalognkosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "lufengosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/lufengosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "scutellosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/scutellosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "camptosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/camptosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "dryosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/dryosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "yinlong",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/yinlong_spawn_egg"
+        }
+      },
+      {
+        "when": "prosaurolophus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/prosaurolophus_spawn_egg"
+        }
+      },
+      {
+        "when": "achelousaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/achelousaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "diabloceratops",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/diabloceratops_spawn_egg"
+        }
+      },
+      {
+        "when": "anchiceratops",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/anchiceratops_spawn_egg"
+        }
+      },
+      {
+        "when": "leptoceratops",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/leptoceratops_spawn_egg"
+        }
+      },
+      {
+        "when": "polacanthus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/polacanthus_spawn_egg"
+        }
+      },
+      {
+        "when": "hylaeosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/hylaeosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "saichania",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/saichania_spawn_egg"
+        }
+      },
+      {
+        "when": "tarchia",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/tarchia_spawn_egg"
+        }
+      },
+      {
+        "when": "dilong",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/dilong_spawn_egg"
+        }
+      },
+      {
+        "when": "zhenyuanlong",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/zhenyuanlong_spawn_egg"
+        }
+      },
+      {
+        "when": "sinocalliopteryx",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/sinocalliopteryx_spawn_egg"
+        }
+      },
+      {
+        "when": "zhuchengtyrannus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/zhuchengtyrannus_spawn_egg"
+        }
+      },
+      {
+        "when": "eustreptospondylus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/eustreptospondylus_spawn_egg"
+        }
+      },
+      {
+        "when": "elaphrosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/elaphrosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "acheroraptor",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/acheroraptor_spawn_egg"
+        }
+      },
+      {
+        "when": "bambiraptor",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/bambiraptor_spawn_egg"
+        }
+      },
+      {
+        "when": "atrociraptor",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/atrociraptor_spawn_egg"
+        }
+      },
+      {
+        "when": "tsaagan",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/tsaagan_spawn_egg"
+        }
+      },
+      {
+        "when": "avimimus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/avimimus_spawn_egg"
+        }
+      },
+      {
+        "when": "tawa",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/tawa_spawn_egg"
+        }
+      },
+      {
+        "when": "liliensternus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/liliensternus_spawn_egg"
+        }
+      },
+      {
+        "when": "ekrixinatosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/ekrixinatosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "sauroposeidon",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/sauroposeidon_spawn_egg"
+        }
+      },
+      {
+        "when": "cetiosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/cetiosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "opisthocoelicaudia",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/opisthocoelicaudia_spawn_egg"
+        }
+      },
+      {
+        "when": "barapasaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/barapasaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "atlasaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/atlasaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "riojasaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/riojasaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "haplocanthosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/haplocanthosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "thecodontosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/thecodontosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "neuquensaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/neuquensaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "amurosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/amurosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "charonosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/charonosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "kritosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/kritosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "gasparinisaura",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/gasparinisaura_spawn_egg"
+        }
+      },
+      {
+        "when": "orodromeus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/orodromeus_spawn_egg"
+        }
+      },
+      {
+        "when": "utahceratops",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/utahceratops_spawn_egg"
+        }
+      },
+      {
+        "when": "bagaceratops",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/bagaceratops_spawn_egg"
+        }
+      },
+      {
+        "when": "zuniceratops",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/zuniceratops_spawn_egg"
+        }
+      },
+      {
+        "when": "hesperosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/hesperosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "wuerhosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/wuerhosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "scolosaurus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/scolosaurus_spawn_egg"
+        }
+      },
+      {
+        "when": "sphaerotholus",
+        "model": {
+          "type": "minecraft:model",
+          "model": "fossilrecord:item/sphaerotholus_spawn_egg"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "fossilrecord:item/velociraptor_spawn_egg"
+    }
+  }
+}

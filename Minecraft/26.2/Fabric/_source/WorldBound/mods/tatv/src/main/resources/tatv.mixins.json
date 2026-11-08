@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.seth.tatv.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "DrivingInputMixin",
+    "NoDropMixin",
+    "TiltStateMixin",
+    "RiderLeanMixin",
+    "CameraTiltMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": [
+    "StayAboardMixin"
+  ]
+}

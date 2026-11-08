@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "fossilrecord:item/pelecanimimus_spawn_egg"
+  }
+}

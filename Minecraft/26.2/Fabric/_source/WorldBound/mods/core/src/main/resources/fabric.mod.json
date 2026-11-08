@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "worldbound",
+  "version": "0.8.0",
+  "name": "WorldBound Engine",
+  "description": "The shared world-generation engine of Earth Data World Gen and Earthish World Gen: terrain, climate biomes, rivers, caves, the horizon and the add-on API. Installed by them; nothing to install on its own.",
+  "authors": [
+    "Seth Timmons"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.seth.worldbound.WorldBoundMod"
+    ],
+    "client": [
+      "com.seth.worldbound.client.WorldBoundClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": ">=0.160.0"
+  },
+  "icon": "assets/worldbound/icon.png",
+  "mixins": [
+    "worldbound.mixins.json"
+  ],
+  "custom": {
+    "modmenu": {
+      "badges": [
+        "library"
+      ]
+    }
+  },
+  "contact": {
+    "homepage": "https://github.com/timmseth/HomeBrewMods/tree/main/Minecraft/26.2/Fabric/_source",
+    "sources": "https://github.com/timmseth/HomeBrewMods/tree/main/Minecraft/26.2/Fabric/_source/WorldBound",
+    "issues": "https://github.com/timmseth/HomeBrewMods/issues"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "earth_landmarks",
+  "version": "1.0.0",
+  "name": "Earth Landmarks",
+  "description": "For Earth Data World Gen: an obelisk at each of the real world's famous landmarks to discover and fast-travel between, a travel map (K) that unlocks around cities and landmarks you find, and walled cities with keeps around every city of 500,000+.",
+  "authors": [
+    "Seth Timmons"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "contact": {
+    "homepage": "https://github.com/timmseth/HomeBrewMods/tree/main/Minecraft/26.2/Fabric/EarthLandmarks",
+    "sources": "https://github.com/timmseth/HomeBrewMods/tree/main/Minecraft/26.2/Fabric/_source/WorldBound",
+    "issues": "https://github.com/timmseth/HomeBrewMods/issues"
+  },
+  "entrypoints": {
+    "main": [
+      "com.seth.worldbound.landmarks.earth.EarthLandmarks"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": ">=0.160.0",
+    "earthdata": ">=1.0.0",
+    "worldbound_landmarks": ">=1.0.0"
+  },
+  "icon": "assets/earth_landmarks/icon.png"
+}

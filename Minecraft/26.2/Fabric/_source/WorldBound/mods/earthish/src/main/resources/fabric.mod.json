@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "earthish",
+  "version": "1.0.0",
+  "name": "Earthish World Gen",
+  "description": "A Minecraft world type of new Earth-like planets, made from the world seed: drifting plates raise mountain belts, rain and rivers carve valleys, and climate sets every biome.",
+  "authors": [
+    "Seth Timmons"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "contact": {
+    "homepage": "https://github.com/timmseth/HomeBrewMods/tree/main/Minecraft/26.2/Fabric/EarthishWorldGen",
+    "sources": "https://github.com/timmseth/HomeBrewMods/tree/main/Minecraft/26.2/Fabric/_source/WorldBound",
+    "issues": "https://github.com/timmseth/HomeBrewMods/issues"
+  },
+  "entrypoints": {
+    "main": [
+      "com.seth.earthish.EarthishMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": ">=0.160.0",
+    "worldbound": ">=0.8.0"
+  },
+  "icon": "assets/earthish/icon.png"
+}

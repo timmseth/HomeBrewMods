@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.seth.fossilrecord.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "OldIdsMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

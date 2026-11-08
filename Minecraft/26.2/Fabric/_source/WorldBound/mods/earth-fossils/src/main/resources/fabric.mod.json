@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "earth_fossils",
+  "version": "1.0.0",
+  "name": "Earth Fossil Record",
+  "description": "232 real dinosaurs at true size, living where their fossils were found on Earth Data World Gen's real Earth (or anywhere, with random placement), plus kangaroos in Australia and green anacondas in the Amazon. Raptors can be tamed, and every dinosaur lays eggs.",
+  "authors": [
+    "Seth Timmons"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "contact": {
+    "homepage": "https://github.com/timmseth/HomeBrewMods/tree/main/Minecraft/26.2/Fabric/EarthFossilRecord",
+    "sources": "https://github.com/timmseth/HomeBrewMods/tree/main/Minecraft/26.2/Fabric/_source/WorldBound",
+    "issues": "https://github.com/timmseth/HomeBrewMods/issues"
+  },
+  "entrypoints": {
+    "main": [
+      "com.seth.fossilrecord.earth.EarthFossilRecord"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": ">=0.160.0",
+    "earthdata": ">=1.0.0",
+    "fossilrecord": ">=1.0.0"
+  },
+  "icon": "assets/earth_fossils/icon.png"
+}

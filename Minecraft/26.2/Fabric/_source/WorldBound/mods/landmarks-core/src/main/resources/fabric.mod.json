@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "worldbound_landmarks",
+  "version": "1.0.0",
+  "name": "WorldBound Landmarks (shared)",
+  "description": "The shared part of Earth Landmarks and Earthish Landmarks: landmark obelisks, discovery, the travel map and travel. Installed by them.",
+  "authors": [
+    "Seth Timmons"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.seth.worldbound.landmarks.LandmarksMod"
+    ],
+    "client": [
+      "com.seth.worldbound.client.LandmarksClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": ">=0.160.0",
+    "worldbound": ">=0.8.0"
+  },
+  "icon": "assets/worldbound_landmarks/icon.png",
+  "custom": {
+    "modmenu": {
+      "badges": [
+        "library"
+      ]
+    }
+  },
+  "contact": {
+    "homepage": "https://github.com/timmseth/HomeBrewMods/tree/main/Minecraft/26.2/Fabric/_source",
+    "sources": "https://github.com/timmseth/HomeBrewMods/tree/main/Minecraft/26.2/Fabric/_source/WorldBound",
+    "issues": "https://github.com/timmseth/HomeBrewMods/issues"
+  }
+}

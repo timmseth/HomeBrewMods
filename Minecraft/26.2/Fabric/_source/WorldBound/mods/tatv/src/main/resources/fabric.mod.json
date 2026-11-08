@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "tatv",
+  "version": "1.2.0",
+  "name": "TATV",
+  "description": "The Truly All-Terrain Vehicle: a hover-boat that drives, jumps, hovers, flies, glides, climbs walls and anchors anywhere. /tatv summons one anywhere; in Earth and Earthish worlds everyone starts with one. Keyboard and controller (Controlify) support.",
+  "authors": [
+    "Seth Timmons"
+  ],
+  "license": "MIT",
+  "icon": "assets/tatv/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.seth.tatv.TatvMod"
+    ],
+    "client": [
+      "com.seth.tatv.client.TatvClient"
+    ],
+    "controlify": [
+      "com.seth.tatv.client.TatvControlify"
+    ]
+  },
+  "mixins": [
+    "tatv.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "earthdata": "*",
+    "earthish": "*",
+    "controlify": "*"
+  },
+  "contact": {
+    "homepage": "https://github.com/timmseth/HomeBrewMods/tree/main/Minecraft/26.2/Fabric/TATV",
+    "sources": "https://github.com/timmseth/HomeBrewMods/tree/main/Minecraft/26.2/Fabric/_source/WorldBound",
+    "issues": "https://github.com/timmseth/HomeBrewMods/issues"
+  }
+}

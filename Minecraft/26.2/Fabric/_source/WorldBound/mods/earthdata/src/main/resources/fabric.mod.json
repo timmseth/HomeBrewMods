@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "earthdata",
+  "version": "1.0.0",
+  "name": "Earth Data World Gen",
+  "description": "A Minecraft world type of the real Earth: real continents, mountains, rivers and climate-matched biomes from public geodata (GEBCO, Copernicus DEM, Köppen-Geiger, ESA WorldCover), with a map to pick your spawn.",
+  "authors": [
+    "Seth Timmons"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "contact": {
+    "homepage": "https://github.com/timmseth/HomeBrewMods/tree/main/Minecraft/26.2/Fabric/EarthDataWorldGen",
+    "sources": "https://github.com/timmseth/HomeBrewMods/tree/main/Minecraft/26.2/Fabric/_source/WorldBound",
+    "issues": "https://github.com/timmseth/HomeBrewMods/issues"
+  },
+  "entrypoints": {
+    "main": [
+      "com.seth.earthdata.EarthDataMod"
+    ],
+    "client": [
+      "com.seth.earthdata.EarthDataClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": ">=0.160.0",
+    "worldbound": ">=0.8.0"
+  },
+  "icon": "assets/earthdata/icon.png",
+  "mixins": [
+    "earthdata.mixins.json"
+  ]
+}

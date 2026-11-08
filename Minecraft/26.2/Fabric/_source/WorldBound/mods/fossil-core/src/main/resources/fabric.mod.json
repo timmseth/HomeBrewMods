@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "fossilrecord",
+  "version": "1.0.0",
+  "name": "Fossil Record",
+  "description": "The animals shared by Earth Fossil Record and Earthish Fossil Record: 232 real dinosaurs at true size, tameable raptors, eggs, kangaroos and green anacondas. Installed by them.",
+  "authors": [
+    "Seth Timmons"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.seth.fossilrecord.FossilRecordInit"
+    ],
+    "client": [
+      "com.seth.fossilrecord.client.FaunaClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": ">=0.160.0",
+    "worldbound": ">=0.8.0"
+  },
+  "icon": "assets/fossilrecord/icon.png",
+  "mixins": [
+    "fossilrecord.mixins.json"
+  ],
+  "custom": {
+    "modmenu": {
+      "badges": [
+        "library"
+      ]
+    }
+  },
+  "contact": {
+    "homepage": "https://github.com/timmseth/HomeBrewMods/tree/main/Minecraft/26.2/Fabric/_source",
+    "sources": "https://github.com/timmseth/HomeBrewMods/tree/main/Minecraft/26.2/Fabric/_source/WorldBound",
+    "issues": "https://github.com/timmseth/HomeBrewMods/issues"
+  }
+}
